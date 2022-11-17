@@ -1,5 +1,6 @@
 # Grocery Store Program
-This program that calculates body mass index was created using the Java programming language. The purpose of this program is to calculate the total amount according to the purchased weight values of fruits and vegetables defined at certain prices.
+
+This program was created using the Java programming language. The purpose of this program is to calculate the total amount according to the purchased weight values of fruits and vegetables defined at certain prices.
 
 ## Which Development Tool Was Used?
 
